@@ -1,5 +1,6 @@
 # uk_bank_customer_dashboard
 Basic_power_bi_dashboard
+
 Power BI is a powerful tool for visualizing and analyzing data, and it can be particularly useful for understanding and presenting insights from UK bank customer data.
 This is an dataset for good practice of visualization with various insights and metrics.
 Here's a basic description of the typical data elements you might work with in this context.
