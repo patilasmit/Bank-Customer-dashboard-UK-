@@ -5,10 +5,13 @@ Power BI is a powerful tool for visualizing and analyzing data, and it can be pa
 This is an dataset for good practice of visualization with various insights and metrics.
 Here's a basic description of the typical data elements you might work with in this context.
 
-Customer Demographics
-Customer ID: Unique identifier for each customer.
-Age: Customer's age, calculated from the date of birth.
-Gender: Customer's gender.
-job: Customer's job title or profession.
-Income: Annual balance of the customer.
-Region: Customer's residential address, which may include city, postcode, and country.
+# Customer Demographics
+# 1. Customer ID: Unique identifier for each customer.
+# 2. Age: Customer's age, calculated from the date of birth.
+# 3. Gender: Customer's gender.
+# 4. job: Customer's job title or profession.
+# 5. Income: Annual balance of the customer.
+# 6. Region: Customer's residential address, which may include city, postcode, and country.
+
+**Check out the screenshot of my basic Power BI dashboard, showcasing insights from UK bank customer data!**
+
